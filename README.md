@@ -1,5 +1,5 @@
 # NetrunnerBuilder
-Script for outputing Android Netrunner Card Game deck sorted in a way matching my card collection organisation. Sample output of the script can be seen in the sample_output.csv file.
+Script for outputing Android Netrunner Card Game deck sorted in a way matching my card collection organisation - that is first by faction and then by card number. This allows for faster physical deck construction when someone stores their card collection in this fashion. Sample output of the script can be seen in the sample_output.csv file.
 
 ## Installation
 
