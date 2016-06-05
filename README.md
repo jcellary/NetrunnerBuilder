@@ -8,6 +8,8 @@ You will need to download and install the following:
 - OCTGN client (found in http://octgn.net/Home/GetOctgn)
 - OCTGN Android Netrunner definition (http://octgngames.com/anr/)
 
+Next step is to clone this repository or download the netrunner.py and start.cmd files directly.
+
 Afterwards you need to adjust the file netrunner.py and set the set_root_dir const to point to your OCTGN Netrunner directory
 
 You can change the ordering of sets by editing the set_groups const. Also you will need to edit this const when new data packs come out. Otherwise cards will be missing part of information and won' be correctly sorted.
