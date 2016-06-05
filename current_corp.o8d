@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda06005">Near-Earth Hub: Broadcast Center</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda10018">Mumba Temple</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda01081">AstroScript Pilot Program</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda01082">Breaking News</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda04119">NAPD Contract</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda02115">Project Beale</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda09004">15 Minutes</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda06086">Daily Business Show</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda04015">Jackson Howard</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda01109">PAD Campaign</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda08110">Team Sponsorship</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda06106">Turtlebacks</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda07027">Cyberdex Virus Suite</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda01092">SanSan City Grid</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda01059">Biotic Labor</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda04076">Sweeps Week</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda09022">The All-Seeing I</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda04096">Wraparound</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda09013">Archangel</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda01111">Enigma</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda08057">Little Engine</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda01090">Tollbooth</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda09028">Assassin</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

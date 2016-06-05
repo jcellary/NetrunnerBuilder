@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda03030">Exile: Streethawk</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda10008">Panchatantra</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda10009">Artist Colony</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda10043">Political Operative</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda01011">Mimic</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda01034">Diesel</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda01038">Akamatsu Mem Chip</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda01045">Net Shield</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda01047">Aesop&#039;s Pawnshop</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda02003">Imp</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda02007">ZU.13 Key Master</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda02009">Plascrete Carapace</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda02047">Test Run</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda02066">Deus X</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda02107">R&amp;D Interface</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda03034">Scavenge</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda03035">Levy AR Lab Access</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda03038">Clone Chip</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda03044">Cyber-Cypher</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda03046">Self-modifying Code</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda03047">Sahasrara</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda03048">Inti</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda04022">Scheherazade</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda04067">Sharpshooter</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda06037">Cache</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda06079">Astrolabe</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda06099">Cerberus &quot;Lady&quot; H1</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda08001">Clot</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda08086">Film Critic</card>
+  </section>
+  <notes><![CDATA[Exile and [Spark](https://netrunnerdb.com/en/decklist/35259/i-m-a-jerk-2nd-place-etx-regionals) got to 2nd place at the Seattle ETX regionals. I believe attendance was 40 players at ETX regionals. This is the continuation and modification of my original Dumpster Gambles deck that won a store championship last year.
+
+With the hit from MWL the D4v1d had to come out, which made the deck a little less resilient, however, to deal with the big ice and make things a little more efficient I ended up going with the Panchatantra and Sharpshooters/Deus X.
+
+This deck has not actually changed that much, the biggest issue is that I&#039;ve had to find room for all the 1-of silver bullets that really help in specific matches, like Artist Colony, Film Critic, Political Operative, and Plascrete.
+
+Throughout the two day tournament, Exile only dropped a single game against 1st place&#039;s Sol. As for notable games, Imp continues to remain an MVP card, helping dismantle a Butchershop style NEH by trashing agendas and applying a lot of pressure on a 7-point CI game (Imp was recurred 4-5 times).]]></notes>
+</deck>

@@ -1,0 +1,117 @@
+
+Current Corp:
+
+Haas-Bioroid;1;Core Set;19;Biotic Labor
+Haas-Bioroid;3;SanSan Cycle;110;Team Sponsorship
+Jinteki;2;The Lunar Cycle;106;Turtlebacks
+NBN;3;Core Set;14;AstroScript Pilot Program
+NBN;3;Core Set;20;Breaking News
+NBN;3;Core Set;89;SanSan City Grid
+NBN;1;Core Set;105;Tollbooth
+NBN;3;Genesis Cycle;115;Project Beale
+NBN;3;The Spin Cycle;15;Jackson Howard
+NBN;3;The Spin Cycle;76;Sweeps Week
+NBN;3;The Spin Cycle;96;Wraparound
+NBN;2;The Lunar Cycle;86;Daily Business Show
+NBN;2;SanSan Cycle;57;Little Engine
+NBN;1;Data and Destiny;4;15 Minutes
+NBN;2;Data and Destiny;13;Archangel
+NBN;1;Data and Destiny;22;The All-Seeing I
+Neutral;1;Core Set;40;Enigma
+Neutral;3;Core Set;75;PAD Campaign
+Neutral;2;The Spin Cycle;119;NAPD Contract
+Neutral;3;Order and Chaos;27;Cyberdex Virus Suite
+Neutral;1;Data and Destiny;28;Assassin
+Neutral;3;Mumbad Cycle;18;Mumba Temple
+
+Next Corp:
+
+?;3;?;0;Bailiff
+?;1;?;0;Cobra
+?;1;?;0;Localized Product Line
+?;2;?;0;Consulting Visit
+NBN;1;Core Set;105;Tollbooth
+NBN;1;Genesis Cycle;116;Midseason Replacements
+NBN;3;The Spin Cycle;15;Jackson Howard
+Neutral;2;Core Set;40;Enigma
+Neutral;3;Core Set;50;Hedge Fund
+Neutral;1;Core Set;65;Melange Mining Corp.
+Neutral;3;The Spin Cycle;40;Restructure
+Neutral;2;The Lunar Cycle;10;Mother Goddess
+Neutral;3;Data and Destiny;26;Global Food Initiative
+The Weyland Consortium;1;Core Set;11;Archer
+The Weyland Consortium;2;Core Set;52;Hostile Takeover
+The Weyland Consortium;3;Core Set;90;Scorched Earth
+The Weyland Consortium;2;Genesis Cycle;3;Caduceus
+The Weyland Consortium;3;Genesis Cycle;13;Project Atlas
+The Weyland Consortium;1;Genesis Cycle;77;Government Contracts
+The Weyland Consortium;3;Genesis Cycle;79;Oversight AI
+The Weyland Consortium;1;The Spin Cycle;37;Elizabeth Mills
+The Weyland Consortium;3;The Spin Cycle;78;Curtain Wall
+The Weyland Consortium;1;The Lunar Cycle;69;Changeling
+The Weyland Consortium;1;SanSan Cycle;78;Contract Killer
+The Weyland Consortium;2;SanSan Cycle;117;Public Support
+
+Diff Corp:
+
+NBN;1;Core Set;105;Tollbooth;1
+NBN;3;The Spin Cycle;15;Jackson Howard;3
+Neutral;1;Core Set;40;Enigma;2
+
+Current Runner:
+
+Anarch;3;Core Set;34;Déjà Vu
+Anarch;2;Genesis Cycle;101;Retrieval Run
+Anarch;3;The Spin Cycle;61;Keyhole
+Anarch;2;The Spin Cycle;102;Queen's Gambit
+Anarch;3;The Lunar Cycle;33;D4v1d
+Anarch;3;The Lunar Cycle;73;Inject
+Anarch;2;Order and Chaos;31;Amped Up
+Anarch;3;Order and Chaos;32;I've Had Worse
+Anarch;2;Order and Chaos;35;Wanton Destruction
+Anarch;3;Order and Chaos;36;Day Job
+Anarch;3;Order and Chaos;40;Eater
+Anarch;3;SanSan Cycle;103;DDoS
+Apex;2;Data and Destiny;30;Apocalypse
+Criminal;2;Core Set;3;Account Siphon
+Criminal;1;Core Set;42;Femme Fatale
+Neutral;3;Core Set;100;Sure Gamble
+Neutral;1;Genesis Cycle;12;Plascrete Carapace
+Neutral;3;Creation and Control;52;Dirty Laundry
+Neutral;3;Creation and Control;54;Same Old Thing
+Neutral;3;The Spin Cycle;89;Blackmail
+
+Next Runner:
+
+?;1;?;0;Political Operative
+Anarch;1;Core Set;66;Mimic
+Anarch;1;Genesis Cycle;7;Imp
+Anarch;1;The Spin Cycle;22;Scheherazade
+Anarch;1;SanSan Cycle;1;Clot
+Criminal;3;The Lunar Cycle;37;Cache
+Neutral;1;Genesis Cycle;12;Plascrete Carapace
+Shaper;3;Core Set;5;Aesop's Pawnshop
+Shaper;1;Core Set;8;Akamatsu Mem Chip
+Shaper;3;Core Set;37;Diesel
+Shaper;1;Core Set;69;Net Shield
+Shaper;1;Genesis Cycle;20;ZU.13 Key Master
+Shaper;2;Genesis Cycle;58;Test Run
+Shaper;1;Genesis Cycle;66;Deus X
+Shaper;2;Genesis Cycle;107;R&D Interface
+Shaper;3;Creation and Control;34;Scavenge
+Shaper;1;Creation and Control;35;Levy AR Lab Access
+Shaper;3;Creation and Control;38;Clone Chip
+Shaper;1;Creation and Control;44;Cyber-Cypher
+Shaper;3;Creation and Control;46;Self-modifying Code
+Shaper;3;Creation and Control;47;Sahasrara
+Shaper;1;Creation and Control;48;Inti
+Shaper;2;The Spin Cycle;67;Sharpshooter
+Shaper;2;The Lunar Cycle;79;Astrolabe
+Shaper;1;The Lunar Cycle;99;Cerberus "Lady" H1
+Shaper;1;SanSan Cycle;86;Film Critic
+Shaper;1;Mumbad Cycle;8;Panchatantra
+Shaper;1;Mumbad Cycle;9;Artist Colony
+
+Diff Runner:
+
+Neutral;1;Genesis Cycle;12;Plascrete Carapace;1

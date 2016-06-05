@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda07030">Valencia Estevez: The Angel of Cayambe</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda01018">Account Siphon</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda07031">Amped Up</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda09030">Apocalypse</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda04089">Blackmail</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda07036">Day Job</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda03052">Dirty Laundry</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda01002">Déjà Vu</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda07032">I&#039;ve Had Worse</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda06073">Inject</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda04102">Queen&#039;s Gambit</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda02101">Retrieval Run</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda01050">Sure Gamble</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda07035">Wanton Destruction</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda02009">Plascrete Carapace</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda08103">DDoS</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda03054">Same Old Thing</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda07040">Eater</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda01026">Femme Fatale</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda06033">D4v1d</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda04061">Keyhole</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>
