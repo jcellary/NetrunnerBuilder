@@ -7,11 +7,12 @@ import sys
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
+# ADJUST THIS TO YOUR LOCAL OCGTN NETRUNNER DEFINITION!!!
+set_root_dir = u"C:\\Users\\Jarosław\\Dysk Google\\Dokumenty\\OCTGN\\GameDatabase\\0f38e453-26df-4c04-9d67-6d43de939c77\\Sets\\"
+
 class NetrunnerBuilder:
 
     card_definitions = {}
-
-    set_root_dir = u"C:\\Users\\Jarosław\\Dysk Google\\Dokumenty\\OCTGN\\GameDatabase\\0f38e453-26df-4c04-9d67-6d43de939c77\\Sets\\"
 
     set_groups = [
         {'name': 'Core Set', 'ids': ['975fe9ee-7c7c-4d05-bd35-d159f92a1294']},
@@ -59,7 +60,7 @@ class NetrunnerBuilder:
 
     def load_set(self, set_id, card_counter, cycle_name, subset_number):
         card_no = 0
-        tree = ET.parse(self.set_root_dir + set_id + '\\set.xml')
+        tree = ET.parse(set_root_dir + set_id + '\\set.xml')
         for card in tree.getroot().iter('card'):
             card_id = card.attrib.get('id')
             self.card_definitions[card_id] = dict(
@@ -175,7 +176,7 @@ class NetrunnerBuilder:
     def run(self):
         self.init()
 
-        path = 'C:\\Jar\\Programowanie\\Python\\NetrunnerBuilder\\'
+        path = '.\\'
         current_corp_path = path + 'current_corp.o8d'
         next_corp_path = path + 'next_corp.o8d'
         current_runner_path = path + 'current_runner.o8d'
